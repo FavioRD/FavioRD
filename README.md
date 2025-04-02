@@ -72,6 +72,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/FavioRD/FavioRD/output/snake.svg" alt="Snake animation" />
-
 ###
