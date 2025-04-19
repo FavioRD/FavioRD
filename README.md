@@ -39,7 +39,6 @@
 ### 🖥️ Backend
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-yellow?logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-Database-blue?logo=mysql" />
   <img src="https://img.shields.io/badge/SQL_Server-Management-red?logo=microsoftsqlserver" />
 </p>
