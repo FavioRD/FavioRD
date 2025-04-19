@@ -26,24 +26,27 @@
 ## 🧰 Tech Stack
 
 ### 🎨 Frontend
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18-blue?logo=react" />
+  <img src="https://img.shields.io/badge/Vite-6-purple?logo=vite" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-Markup-orange?logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-Styling-blue?logo=css3" />
+  <img src="https://img.shields.io/badge/Bootstrap-5.3-blueviolet?logo=bootstrap" />
+  <img src="https://img.shields.io/badge/Responsive-Yes-brightgreen?logo=css3" />
+</p>
 
 ### 🖥️ Backend
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img width="9" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="SQL Server" />
-</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-yellow?logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-Database-blue?logo=mysql" />
+  <img src="https://img.shields.io/badge/SQL_Server-Management-red?logo=microsoftsqlserver" />
+  <img src="https://img.shields.io/badge/Node.js-Runtime-green?logo=node.js" />
+  <img src="https://img.shields.io/badge/Express.js-Framework-lightgrey?logo=express" />
+</p>
+
 
 ---
 
