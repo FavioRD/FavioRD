@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/HTML5-Markup-orange?logo=html5" />
   <img src="https://img.shields.io/badge/CSS3-Styling-blue?logo=css3" />
   <img src="https://img.shields.io/badge/Bootstrap-5.3-blueviolet?logo=bootstrap" />
-  <img src="https://img.shields.io/badge/Responsive-Yes-brightgreen?logo=css3" />
 </p>
 
 ### 🖥️ Backend
@@ -43,8 +42,6 @@
   <img src="https://img.shields.io/badge/Python-3.11-yellow?logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-Database-blue?logo=mysql" />
   <img src="https://img.shields.io/badge/SQL_Server-Management-red?logo=microsoftsqlserver" />
-  <img src="https://img.shields.io/badge/Node.js-Runtime-green?logo=node.js" />
-  <img src="https://img.shields.io/badge/Express.js-Framework-lightgrey?logo=express" />
 </p>
 
 
