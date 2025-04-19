@@ -10,16 +10,24 @@
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect!
 
-<div align="left">
-  <a href="https://www.instagram.com/favio.ramos.d/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Got+a+project+in+mind%3F;Let's+build+something+awesome!;Feel+free+to+reach+out+%F0%9F%91%87" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/favio-ramos-75b545282/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Favio_Ramos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+  <a href="https://www.instagram.com/favio.ramos.d/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@favio.ramos.d-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:favio.ramos.d@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-favio.ramos.d@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
