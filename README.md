@@ -54,20 +54,28 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
   <table>
     <tr>
       <td>
-        <img src="https://i.pinimg.com/originals/1d/35/f8/1d35f8a30354d9ef454a34ad1a955b49.gif" height="150" alt="animated gif" />
+        <img src="https://github-readme-stats.vercel.app/api?username=FavioRD&show_icons=true&theme=tokyonight" height="150" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FavioRD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="Most Used Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FavioRD&layout=compact&theme=tokyonight&langs_count=6" height="150" />
+      </td>
+      <td>
+        <img src="https://i.pinimg.com/originals/1d/35/f8/1d35f8a30354d9ef454a34ad1a955b49.gif" height="150" alt="animated gif" />
       </td>
     </tr>
   </table>
-</div>
+</p>
 
+## 🔄 Latest Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FavioRD&theme=tokyonight" />
+</p>
 
 ---
