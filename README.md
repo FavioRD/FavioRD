@@ -49,7 +49,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FavioRD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="Most Used Languages" />
 </div>
 
