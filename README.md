@@ -49,14 +49,18 @@
 
 ## 📊 GitHub Stats
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FavioRD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="Most Used Languages" />
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://i.pinimg.com/originals/1d/35/f8/1d35f8a30354d9ef454a34ad1a955b49.gif" height="150" alt="animated gif" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FavioRD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br/>
-
-<p align="left">
-  <img src="https://i.pinimg.com/originals/1d/35/f8/1d35f8a30354d9ef454a34ad1a955b49.gif" height="150" alt="animated gif" />
-</p>
 
 ---
