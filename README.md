@@ -23,7 +23,7 @@
   <a href="https://www.instagram.com/favio.ramos.d/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@favio.ramos.d-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:favio.ramos.d@gmail.com">
+  <a href="mailto:favioramosd@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-favio.ramos.d@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
