@@ -72,12 +72,6 @@
   </table>
 </p>
 
-## 🔄 Latest Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FavioRD&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🎧 My Spotify Vibes
