@@ -1,13 +1,22 @@
-<h1 align="left">Hi there 👋, I'm Favio Ramos</h1>
+
+<h1 align="left">Hola 👋, soy Favio Ramos</h1>
+
 ---
-## 👨‍💻 About Me
-💻 I'm a passionate Software Developer with a strong interest in building dynamic, responsive, and scalable web applications. I enjoy working across the full stack — from elegant frontends to robust backend systems.
-🚀 I’m always looking to learn new technologies and improve my skills to deliver clean, efficient, and innovative solutions.
+
+## 👨‍💻 Sobre mí
+
+Soy un **Desarrollador de Software Full Stack** apasionado por crear aplicaciones web dinámicas, responsivas y escalables. Me encanta trabajar tanto en el frontend como en el backend, buscando siempre soluciones limpias, eficientes e innovadoras.
+
+🚀 Siempre estoy en busca de nuevos desafíos y tecnologías para seguir creciendo profesionalmente.
+
 ---
-## 📫 Let's Connect!
+
+## 📫 ¡Conectemos!
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Got+a+project+in+mind%3F;Let's+build+something+awesome!;Feel+free+to+reach+out+%F0%9F%91%87" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%C2%BFTienes+un+proyecto+en+mente%3F;%C2%A1Construyamos+algo+incre%C3%ADble!;No+dudes+en+contactarme+%F0%9F%91%87" />
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/favio-ramos-75b545282/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Favio_Ramos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -19,9 +28,13 @@
     <img src="https://img.shields.io/badge/Gmail-favioramosd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 ---
-## 🧰 Tech Stack
+
+## 🧰 Tecnologías que uso
+
 ### 🎨 Frontend
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-18-blue?logo=react" />
   <img src="https://img.shields.io/badge/Vite-6-purple?logo=vite" />
@@ -30,13 +43,18 @@
   <img src="https://img.shields.io/badge/CSS3-Styling-blue?logo=css3" />
   <img src="https://img.shields.io/badge/Bootstrap-5.3-blueviolet?logo=bootstrap" />
 </p>
+
 ### 🖥️ Backend
+
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-Database-blue?logo=mysql" />
   <img src="https://img.shields.io/badge/SQL_Server-Management-red?logo=microsoftsqlserver" />
 </p>
+
 ---
-## 📈 GitHub Stats
+
+## 📊 Estadísticas de GitHub
+
 <p align="center">
   <table>
     <tr>
