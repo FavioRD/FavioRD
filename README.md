@@ -14,10 +14,6 @@ Soy un **Desarrollador de Software** apasionado por crear aplicaciones web diná
 ## 📫 ¡Conectemos!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%C2%BFTienes+un+proyecto+en+mente%3F;%C2%A1Construyamos+algo+incre%C3%ADble!;No+dudes+en+contactarme+%F0%9F%91%87" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/favio-ramos-75b545282/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Favio_Ramos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
