@@ -52,11 +52,3 @@
     </tr>
   </table>
 </p>
----
-## 🎧 My Spotify Vibes
-<p align="center">
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21jkvqjvhxht7llmnn6j3cgii&width=800" alt="Spotify Now Playing" width="100%" />
-  </a>
-</p>
----
