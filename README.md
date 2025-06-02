@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy un **Desarrollador de Software Full Stack** apasionado por crear aplicaciones web dinámicas, responsivas y escalables. Me encanta trabajar tanto en el frontend como en el backend, buscando siempre soluciones limpias, eficientes e innovadoras.
+Soy un **Desarrollador de Software** apasionado por crear aplicaciones web dinámicas, responsivas y escalables. Me encanta trabajar tanto en el frontend como en el backend, buscando siempre soluciones limpias, eficientes e innovadoras.
 
 🚀 Siempre estoy en busca de nuevos desafíos y tecnologías para seguir creciendo profesionalmente.
 
