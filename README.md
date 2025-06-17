@@ -14,14 +14,14 @@ Soy un **Desarrollador de Software** apasionado por crear aplicaciones web diná
 ## 📫 ¡Conectemos!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/favio-ramos-75b545282/" target="_blank">
+  <a href="https://www.linkedin.com/in/favio-ramos-d/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Favio_Ramos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/favio.ramos.d/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@favio.ramos.d-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:favioramosd@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-favioramosd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:infofavioramosd@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-infofavioramosd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
