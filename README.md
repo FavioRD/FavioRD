@@ -5,9 +5,9 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy un **Desarrollador de Software** apasionado por crear aplicaciones web dinámicas, responsivas y escalables. Me encanta trabajar tanto en el frontend como en el backend, buscando siempre soluciones limpias, eficientes e innovadoras.
+Soy un estudiante de Computación e Informática con fuerte enfoque en el desarrollo de software. Me apasiona crear aplicaciones web dinámicas, responsivas y escalables, integrando tecnologías modernas tanto en el frontend como en el backend.
 
-🚀 Siempre estoy en busca de nuevos desafíos y tecnologías para seguir creciendo profesionalmente.
+✨ Disfruto resolver problemas, optimizar procesos y aplicar buenas prácticas de programación. Actualmente estoy en constante aprendizaje, siempre en busca de nuevos desafíos y oportunidades para seguir creciendo como desarrollador.
 
 ---
 
