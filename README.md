@@ -6,7 +6,7 @@
 ## 👨‍💼 Sobre mí
 
 <p align="justify" style="font-family: 'Georgia', serif; font-size: 16px;">
-Soy un <strong>estudiante de Computación e Informática</strong> con gran interés en el desarrollo de software. Me especializo en la creación de aplicaciones web dinámicas, responsivas y escalables, integrando tecnologías modernas tanto en el frontend como en el backend.
+Soy un <strong>estudiante de Computación e Informática</strong> con gran interés en el desarrollo de software. Me especializo en la creación de aplicaciones web dinámicas,responsivas y escalables,integrando tecnologías modernas tanto en el frontend como en el backend.
 
 Disfruto resolver problemas complejos, optimizar procesos y aplicar buenas prácticas de programación. Me considero autodidacta, proactivo y siempre en búsqueda de nuevos desafíos que me permitan seguir creciendo profesional y técnicamente.
 </p>
