@@ -32,20 +32,45 @@ Soy un estudiante de Computación e Informática con fuerte enfoque en el desarr
 ### 🎨 Frontend
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-18-blue?logo=react" />
-  <img src="https://img.shields.io/badge/Vite-6-purple?logo=vite" />
+  <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-Markup-orange?logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-Styling-blue?logo=css3" />
-  <img src="https://img.shields.io/badge/Bootstrap-5.3-blueviolet?logo=bootstrap" />
+  <img src="https://img.shields.io/badge/HTML5-Markup-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-5.3-7952B3?logo=bootstrap&logoColor=white" />
 </p>
+
+---
 
 ### 🖥️ Backend
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-Database-blue?logo=mysql" />
-  <img src="https://img.shields.io/badge/SQL_Server-Management-red?logo=microsoftsqlserver" />
+  <img src="https://img.shields.io/badge/Java-Backend-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-Backend-239120?logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-Framework-6DB33F?logo=spring&logoColor=white" />
 </p>
+
+---
+
+### 🗄️ Bases de Datos
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-Relacional-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-Relacional-CC2927?logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+---
+
+### 🛠️ Herramientas y Entornos
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-Code%20Editor-007ACC?logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-IDE-2C2255?logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-IDE-5C2D91?logo=visualstudio&logoColor=white" />
+</p>
+
 
 ---
 
