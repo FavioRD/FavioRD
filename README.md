@@ -69,14 +69,6 @@ Disfruto resolver problemas complejos, optimizar procesos y aplicar buenas prác
 
 ---
 
-## 🌱 Actualmente aprendiendo
-
-- Arquitectura de software y patrones de diseño  
-- APIs RESTful y microservicios  
-- Buenas prácticas de rendimiento y seguridad web
-
----
-
 ## 💡 Intereses
 
 - Desarrollo de plataformas web modernas  
