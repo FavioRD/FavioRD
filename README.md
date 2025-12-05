@@ -19,29 +19,22 @@
 
 ---
 
-<h2 align="center">📊 Estadísticas de GitHub</h2>
-
+## 📊 Estadísticas de GitHub
 <p align="center">
-  <table>
-    <tr>
+<table>
+<tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=FavioRD&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150" alt="FavioRD GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FavioRD&show_icons=true&theme=tokyonight&cache_seconds=1800" height="150" />
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FavioRD&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=1800" height="150" alt="FavioRD Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FavioRD&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=1800" height="150" />
 </td>
-      <td>
-        <img src="https://i.pinimg.com/originals/1d/35/f8/1d35f8a30354d9ef454a34ad1a955b49.gif" height="150" alt="Animated GIF" />
-      </td>
-    </tr>
-  </table>
+ <td>
+        <img src="https://i.pinimg.com/originals/1d/35/f8/1d35f8a30354d9ef454a34ad1a955b49.gif" height="150" alt="animated gif" />
+      </td>
+    </tr>
+  </table>
 </p>
-
-<br>
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=FavioRD&theme=tokyonight&no-bg=true&column=4" alt="GitHub Trophies" />
-</div>
-
 ---
 
 <h2 align="center">🌐 Conéctate Conmigo</h2>
