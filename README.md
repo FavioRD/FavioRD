@@ -31,10 +31,10 @@ Desarrollador Full-Stack especializado en arquitectura de aplicaciones web escal
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=FavioRD&show_icons=true&theme=dark&hide_border=true&rank_icon=github" height="180" />
+      <img src="https://github-readme-stats.vercel.app/api?username=FavioRD&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" height="180" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FavioRD&layout=compact&theme=dark&hide_border=true&langs_count=6" height="180" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FavioRD&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" height="180" />
     </td>
     <td>
       <img src="https://i.pinimg.com/originals/1d/35/f8/1d35f8a30354d9ef454a34ad1a955b49.gif" height="180" alt="animated gif" />
