@@ -38,9 +38,19 @@ Desarrollador Full-Stack especializado en arquitectura de aplicaciones web escal
 
 <div align="center">
   
-| **Estadísticas de Contribución** | **Lenguajes más Utilizados** |
-| :---: | :---: |
-| ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FavioRD&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github) | ![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=FavioRD&layout=compact&theme=github_dark&hide_border=true&langs_count=6) |
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=FavioRD&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="150" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FavioRD&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="150" />
+    </td>
+    <td>
+      <img src="https://i.pinimg.com/originals/1d/35/f8/1d35f8a30354d9ef454a34ad1a955b49.gif" height="150" alt="animated gif" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
