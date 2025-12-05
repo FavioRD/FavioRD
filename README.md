@@ -1,6 +1,5 @@
 <div align="center">
     <h1>👋 Hola, soy FavioRD!</h1>
-    
     <p>Desarrollador Full-Stack con enfoque en la creación de aplicaciones web escalables y de alto rendimiento. Mi pasión radica en convertir ideas complejas en soluciones de código limpio y eficiente, y en la exploración constante de nuevas tecnologías.</p>
 </div>
 
@@ -8,13 +7,13 @@
 
 <h2 align="center">💻 Mi Stack Tecnológico Principal</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgresql,firebase" alt="Iconos de Tecnologías Front-end y Back-end" />
+    <img src="https://skillicons.dev/icons?i=js,ts,express,mongodb,postgresql,firebase" alt="Iconos de Tecnologías Front-end y Back-end" />
 </p>
 <br>
 
 <h3 align="center">🛠️ Herramientas y DevOps</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,git,github,vscode,jest,cypress" alt="Iconos de Herramientas y DevOps" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" alt="Iconos de Herramientas y DevOps" />
 </p>
 
 ---
@@ -35,7 +34,7 @@
     </tr>
   </table>
 </p>
----
+
 
 <h2 align="center">🌐 Conéctate Conmigo</h2>
 
