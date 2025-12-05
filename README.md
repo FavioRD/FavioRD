@@ -6,31 +6,21 @@ Desarrollador Full-Stack especializado en arquitectura de aplicaciones web escal
 
 ---
 
-## 🛠 Stack Tecnológico
-
-### **Lenguajes & Entornos de Ejecución**
+### **Frontend & UI/UX**
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
+![React](https://skillicons.dev/icons?i=react)
+![Angular](https://skillicons.dev/icons?i=angular)
 
 ### **Backend & APIs**
-![Express](https://skillicons.dev/icons?i=express)
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Firebase](https://skillicons.dev/icons?i=firebase)
+![Java](https://skillicons.dev/icons?i=java)
+![Spring](https://skillicons.dev/icons?i=spring)
+![C#](https://skillicons.dev/icons?i=cs)
+![.NET](https://skillicons.dev/icons?i=dotnet)
 
-### **Frontend & UI/UX**
-![React](https://skillicons.dev/icons?i=react)
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-
-### **DevOps & Herramientas**
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Linux](https://skillicons.dev/icons?i=linux)
+### **Bases de Datos**
+![SQL Server](https://skillicons.dev/icons?i=mssql)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
 ---
 
