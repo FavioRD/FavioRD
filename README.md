@@ -20,6 +20,7 @@
 ---
 
 <h2 align="center">📊 Estadísticas de GitHub</h2>
+
 <p align="center">
   <table>
     <tr>
