@@ -27,23 +27,17 @@ Desarrollador Full-Stack especializado en arquitectura de aplicaciones web escal
 ## 📈 Métricas de GitHub
 
 <div align="center">
-
-### 📊 Actividad de GitHub
   
-![GitHub Stats](https://img.shields.io/badge/Commits-1000+-blue?style=for-the-badge)
-![PRs](https://img.shields.io/badge/PRs-Welcome-green?style=for-the-badge)
-![Issues](https://img.shields.io/badge/Issues-10%20open-orange?style=for-the-badge)
-
 <table>
   <tr>
     <td>
-      <img src="https://i.pinimg.com/originals/1d/35/f8/1d35f8a30354d9ef454a34ad1a955b49.gif" height="180" alt="animated gif" />
+      <img src="https://github-readme-stats-ecru.vercel.app/api?username=FavioRD&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="180" alt="Estadísticas GitHub" />
     </td>
     <td>
-      <p style="text-align: left;">
-        <strong>💡 Nota:</strong> Las estadísticas dinámicas están temporalmente deshabilitadas.<br>
-        ¡Sigue revisando mis repositorios para ver mi trabajo actual!
-      </p>
+      <img src="https://github-readme-stats-ecru.vercel.app/api/top-langs/?username=FavioRD&layout=compact&theme=dark&hide_border=true&langs_count=6" height="180" alt="Lenguajes más usados" />
+    </td>
+    <td>
+      <img src="https://i.pinimg.com/originals/1d/35/f8/1d35f8a30354d9ef454a34ad1a955b49.gif" height="180" alt="animated gif" />
     </td>
   </tr>
 </table>
